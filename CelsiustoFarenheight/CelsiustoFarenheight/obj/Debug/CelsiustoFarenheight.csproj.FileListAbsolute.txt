@@ -1,0 +1,7 @@
+C:\Users\nd145438\Desktop\Chapter 3\CelsiustoFarenheight\CelsiustoFarenheight\bin\Debug\CelsiustoFarenheight.exe.config
+C:\Users\nd145438\Desktop\Chapter 3\CelsiustoFarenheight\CelsiustoFarenheight\bin\Debug\CelsiustoFarenheight.exe
+C:\Users\nd145438\Desktop\Chapter 3\CelsiustoFarenheight\CelsiustoFarenheight\bin\Debug\CelsiustoFarenheight.pdb
+C:\Users\nd145438\Desktop\Chapter 3\CelsiustoFarenheight\CelsiustoFarenheight\obj\Debug\CelsiustoFarenheight.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 3\CelsiustoFarenheight\CelsiustoFarenheight\obj\Debug\CelsiustoFarenheight.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 3\CelsiustoFarenheight\CelsiustoFarenheight\obj\Debug\CelsiustoFarenheight.exe
+C:\Users\nd145438\Desktop\Chapter 3\CelsiustoFarenheight\CelsiustoFarenheight\obj\Debug\CelsiustoFarenheight.pdb

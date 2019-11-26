@@ -1,0 +1,10 @@
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\bin\Debug\EggsInteractive.exe.config
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\bin\Debug\EggsInteractive.exe
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\bin\Debug\EggsInteractive.pdb
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.Form1.resources
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.Properties.Resources.resources
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.csproj.GenerateResource.cache
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.exe
+C:\Users\nd145438\Desktop\Chapter 3\EggsInteractive\EggsInteractive\obj\Debug\EggsInteractive.pdb

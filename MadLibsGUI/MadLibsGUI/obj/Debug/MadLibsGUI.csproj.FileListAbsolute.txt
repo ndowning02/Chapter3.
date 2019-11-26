@@ -1,0 +1,10 @@
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\bin\Debug\MadLibsGUI.exe.config
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\bin\Debug\MadLibsGUI.exe
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\bin\Debug\MadLibsGUI.pdb
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.Form1.resources
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.Properties.Resources.resources
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.csproj.GenerateResource.cache
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.exe
+C:\Users\nd145438\Desktop\Chapter 3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.pdb

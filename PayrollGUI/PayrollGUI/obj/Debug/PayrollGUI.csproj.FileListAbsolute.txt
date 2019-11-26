@@ -1,0 +1,10 @@
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.pdb
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.Form1.resources
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.Properties.Resources.resources
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.cache
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.exe
+C:\Users\nd145438\Desktop\Chapter 3\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.pdb

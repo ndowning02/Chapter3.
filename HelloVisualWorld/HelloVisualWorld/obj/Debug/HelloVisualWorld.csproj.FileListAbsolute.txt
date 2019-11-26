@@ -1,0 +1,10 @@
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloVisualWorld.resources
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.cache
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\Users\nd145438\Desktop\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
